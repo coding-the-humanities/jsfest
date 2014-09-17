@@ -20,14 +20,22 @@ fact by now has been acknowled by the software industry, but is almost
 completely ignored by the education system. Here coding is still located
 in the STEM departments and taught as a computational skill.
 
-'Coding the Humanities' is an open source curriculum and platform that
-helps humanities students to develop tools and skills to do research
-through coding. At the end of our presentation, we will look into the
-specifics of our curriculum and the custom tools that we are developing
-to achieve this. We will explain why we made some unorthodox choices -
-such as introducing students to coding through 'web components' - and
-tell about our expeiences with these choices so far.
+To illustrate this, we will talk about an unconventional choice that
+we made teaching programming to absolute beginners in the 'Coding the
+Humanities' course. Our entire curriculum is built around webcomponents. We
+believe that this has the following advantages:
 
+1. Declarative code is easier to understand and reason about.
+
+2. Modularization stimulates collaboration.
+
+3. Encapsulation enforces best practices
+
+4. Complex concepts (recursion, looping, enumeration, etc.) can be
+introduced relatively late in the curriculum.
+
+5. Most importantly, webcomponents allow students to focus on concrete
+questions rather than technical implementation.
 
 Presenters: 
 - Jan Hein Hoogstad (University of Amsterdam)
